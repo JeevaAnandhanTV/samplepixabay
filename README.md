@@ -129,6 +129,6 @@ Notable details in `GalleryController`:
 
 ## 4. Submission checklist
 
-- [ ] Push to a Git repository (`git init && git add . && git commit`)
+- [x] Push to a Git repository (`git init && git add . && git commit`)
 - [ ] Add 2–4 screenshots to `docs/screenshots/` and link them here
 - [ ] Attach the release APK (`flutter build apk --release --dart-define-from-file=dart_defines.json`)
